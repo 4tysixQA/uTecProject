@@ -1,0 +1,9 @@
+<suite name="Module 1:2D SR">
+    <test name="Validate 2D Sr creation">
+        <classes>
+            <class name="iProgrammer_UTechIFA_2DLayout.DraftSRCreation_2DLayout"></class>
+        </classes>
+    </test>
+
+    
+</suite>
